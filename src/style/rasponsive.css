@@ -1,0 +1,118 @@
+@media only screen and (max-width: 1920px) {
+    .banner_add_one {
+        margin-bottom: 0px;
+    }
+    .sale-banner {
+        margin-bottom: 15px !important;
+    }
+  }
+@media only screen and (max-width: 1366px) {
+
+  }
+  @media (max-width: 1280.1024px) {
+    .vandor_header_right_icon {
+        margin-right: 10px;
+    }
+    .caragory_rasponsive svg {
+        font-size: 16px;
+    }
+    .caragory_rasponsive {
+        padding: 13px 15px;
+    }
+    .caragory_rasponsive h1 {
+        font-size: 13px;
+        padding: 0 9px;
+    }
+    .caragory_rasponsive_menu a {
+        padding: 0 14px;
+    }
+    .all_cata {
+        padding: 10px 12px;
+        font-size: 10px;
+    }
+  }
+  @media (max-width: 991.768px) {
+    .caragory_rasponsive_menu a {
+        font-size: 10px;
+    }
+    .caragory_rasponsive {
+        padding: 13px 9px;
+    }
+    .caragory_rasponsive h1 {
+        font-size: 12px;
+        padding: 0 6px;
+    }
+    .vandor_header_right {
+        float: right;
+        width: 100%;
+    }
+    .menu__vartical_menu {
+        display: none;
+    }
+    .caragory_rasponsive_menu a {
+        padding: 0 6px;
+    }
+    .banner_add_one {
+        padding: 15px;
+    }
+    .react-tabs__tab-list h3 {
+        display: none;
+    }
+    .footer_link h3 {
+        font-size: 13px;
+    }
+    .top_header_Banner {
+        width: 100%;
+        height: auto;
+    }
+  }
+  @media (max-width: 640.480px) {
+    .caragory_rasponsive_menu{
+        display: none;
+    }
+    .vandor_header_right {
+        bottom: 0;
+        left: 0;
+        position: fixed;
+        z-index: 999;
+        background: #f9f9f9;
+        padding-left: 15%;
+    }
+    .vandor_header_right_icon {
+        margin-right: 124px;
+    }
+    .vandor_header_right_icon:last-child {
+        margin-right: 14px;
+    }
+    .caragory_rasponsive svg:last-child{
+        display: none;
+    }
+    .caragory_rasponsive h1 {
+        font-size: 22px;
+        padding: 0 6px;
+    }
+    .caragory_rasponsive svg {
+        font-size: 28px;
+    }
+    .hover_effect1 img {
+        width: 100%;
+    }
+    .footer_bottom {
+        margin-bottom: 40px;
+    }
+    .top_banner_left p {
+        font-size: 10px;
+    }
+    .top_banner_right p {
+        font-size: 10px;
+    }
+    .top_banner_area h2 {
+        position: absolute;
+        right: 10px;
+        width: 15px;
+        height: 15px;
+        top: 9px;
+        line-height: 15px !important;
+        font-size: 10px;
+    }
+  }
